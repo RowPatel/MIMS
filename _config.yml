@@ -3,3 +3,28 @@ title: "Minorities in Marine Science"
 description: "Making marine science a more inclusive sector"
 relative_permalinks: false
 theme: jekyll-theme-cayman
+
+# List of links in the navigation bar
+navbar-links:
+  About MIMS:
+    - What we do: ""
+    - Join us: "join"
+    - Contact: "contact"
+    - Code of Conduct: "CODE_OF_CONDUCT"
+  News: "blog"
+  Who Are We: "WhoAreWe"
+  Projects: "projects"
+  Resources: "resources"
+  Events: "events"
+  Funding: "funding"
+  Forum: "forum"
+
+# Change all these values or delete the ones you don't want (these appear in the footer).
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: "Minorities in Marine Science"
+  email: "roweena.patel@gmail.com"
+  github: 
+  facebook: yourname  # eg. daattali
+  twitter: yourname   # eg. daattali
+
